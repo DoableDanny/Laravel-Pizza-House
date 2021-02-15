@@ -11,7 +11,7 @@
 
 Made following NetNinja's YouTube Laravel series
 
-![home page](./public/readme.PNG)
+![home page](./public/img/readme.PNG)
 
 ## About Laravel
 
